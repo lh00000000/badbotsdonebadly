@@ -1,4 +1,4 @@
-#Bad Bots, Done Badly!
+# Bad Bots, Done Badly!
 
 generates code to make bots using http://cheapbotsdonequick.com/
 
